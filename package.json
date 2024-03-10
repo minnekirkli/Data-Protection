@@ -1,0 +1,26 @@
+{
+"name": "data-protectionprojiecrt08",
+"version": "1.0.0",
+"description": "We strictly protect user data privacy, employing multiple layers of data protection measures to ensure data security and reliability.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/minnekirkli/Data-Protection.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "minnekirkli",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
